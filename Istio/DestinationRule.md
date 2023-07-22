@@ -1,5 +1,5 @@
 ##### Defining subsets of application. 
-This can be used when we want separate traffic:
+This can be used when we want split traffic:
 ```
 apiVersion: networking.istio.io/v1alpha3 
 kind: DestinationRule 
@@ -49,3 +49,20 @@ spec:
  - maxConnections — The threshold at which we report a connection overflow. The Istio proxy (Envoy) uses connections to service requests up to an upper bound defined in this setting. In reality, we can expect the maximum number of connections to be one per endpoint in the load-balancing pool plus the value of this setting. Any time we go over this value, Envoy will report it in its metrics.  
  - http1MaxPendingRequests — The allowable number of requests that are pending and don’t have a connection to use.  
  - http2MaxRequests — This setting is unfortunately misnamed in Istio. Under the covers, it controls the maximum number of parallel requests across all end-points/hosts in a cluster regardless of HTTP2 or HTTP1.1 (see https:// github.com/istio/istio/issues/27473).
+
+##### Outliner detection
+Removes certain hosts of a service that are misbehaving
+```
+apiVersion: networking.istio.io/v1beta1 
+kind: DestinationRule 
+metadata: 
+	name: simple-backend-dr 
+spec: 
+	host: simple-backend
+	trafficPolicy: 
+		outlierDetection: 
+			consecutive5xxErrors: 1 (Number of bad requests to eject host)
+			interval: 5s (How often proxy checks hosts)
+			baseEjectionTime: 5s (Time for which host is ejected)
+			maxEjectionPercent: 100
+```
