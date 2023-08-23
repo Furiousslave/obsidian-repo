@@ -1,6 +1,6 @@
 Jks and TrustStore are standart secure storages for private keys, certifcates for server approach and client approach in Java applications.
 
-##### JKS(serverr)
+##### JKS(server)
 JKS is secure storage that stores private keys and certificates(for server).
 Creating a JSK with a self-signed certificate:
 ```
