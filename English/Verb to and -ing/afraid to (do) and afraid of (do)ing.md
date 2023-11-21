@@ -5,4 +5,3 @@ I am **afraid of** something **happening** = I am afraid that something bad will
 - I was afraid of dropping it
 - I was afraid of running out petrol
 - I am afraid of losing it
-
