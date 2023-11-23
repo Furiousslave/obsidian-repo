@@ -8,3 +8,14 @@
 
 
 Usually uncountable: **accommondation**, **advice**, **baggage**, **behaviour**, **bread**, **chaos**, **damage**, **furniture**, **information**, **luck**, **luggage**, **news**, **permission**, **progress**, **scenery**, **traffic**, **weather**, **work**
+
+We use **a/an**... to say what kind of thing something iis, or what kind of person somebody is:
+- That's a **nice table**
+In the plural we use the noun alone:
+- Those are **nice chairs**
+
+We say that somebody has **a long nose** / **a nice face** / **blue eyes** / **long fingers** etc.
+
+We use a/an when we say what somebody's job is:
+- Sandra is **a nurse**
+- Would you like to be **an English teacher**?
