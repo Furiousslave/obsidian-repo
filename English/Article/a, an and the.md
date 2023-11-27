@@ -27,3 +27,33 @@ We say 'once **a week**' / three times **a day** / $ 1.50 **a kilo**' etc.:
 - I go to the cinema about once **a month**
 - 'How much are those potatoes?' '$1.50 **a kilo**'
 - Helen work eight hours **a day**, six days **a week**
+
+We use **the** where there is only one of something:
+- Have you ever crossed **the equator**?
+- Our apartment is on **the tenth floor**
+- Buenos Aires is **the capital of Argentina**
+
+We say '**the same**':
+- It's confusing when two people have **the same name**
+- Are these keys **the same**?
+
+We say: **the world**, **the universe**, **the sun**, **the moon**, **the earth**, **the sky**, **the sea**, **the ground**, **the counry**(= not a town)
+
+We also use **Earth** (without the) when we think of it as a planet in space (like Mars, Jupiter etc.)
+- Which is the planet nearest **Earth**?
+
+We say **space** (without the) when we mean ‘space in the universe:
+- There are millions of stars **in space**
+- I tried to park my car, but **the space** was too small
+
+We say: (go to) **the cinema**, **the theatre**
+
+**TV**, **the television**, **the radio**, **the internet**
+
+We usually say **breakfast**/**lunch**/**dinner**
+
+But we say ‘**a big** lunch’, ‘**a wonderful** dinner’, ‘**an early** breakfast’ etc.
+
+We say: **size 43**, **platform 5**, **room 126**, **page 29**,  **vitamin A** etc. (without the)
+
+**TODO: split these articles on different pages**
