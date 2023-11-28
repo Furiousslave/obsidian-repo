@@ -46,7 +46,7 @@ We say **space** (without the) when we mean ‘space in the universe:
 - There are millions of stars **in space**
 - I tried to park my car, but **the space** was too small
 
-We say: (go to) **the cinema**, **the theatre**
+We say: (go to) **the cinema**, **the theatre**, **the station**
 
 **TV**, **the television**, **the radio**, **the internet**
 
@@ -55,5 +55,25 @@ We usually say **breakfast**/**lunch**/**dinner**
 But we say ‘**a big** lunch’, ‘**a wonderful** dinner’, ‘**an early** breakfast’ etc.
 
 We say: **size 43**, **platform 5**, **room 126**, **page 29**,  **vitamin A** etc. (without the)
+
+We use **the** with these words: **school**, **prison**, **hospital**, **university**, **college**, **church** when we are thinking of not the general idea of these places: 
+
+| When I leave school, I plan to go **to university** / go **to college**. (as a student)                     | I went to **the university** to meet Professor Thomas. (as a visitor, not as a student)                     |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Joe had an accident last week. He was taken **to hospital**. He’s still **in hospital** now. (as a patient)| Jane has gone to **the hospital** to visit Joe. She’s at **the hospital** now. (as a visitor, not as a patient)                                                                                                         |
+|Ken’s brother is **in prison** for robbery. (He is a prisoner. We are not thinking of a specific prison.)| Ken went to **the prison** to visit his brother. (He went as a visitor, not as a prisoner.)                                                                                                         |
+|Sarah’s father goes **to church** every Sunday. (for a religious service)|Some workmen went to **the church** to repair the roof. (a specific building)|
+
+We say **go to bed** / **be in bed** etc. (not the bed):
+- I’m going **to bed** now. Goodnight.
+- Do you ever have breakfast **in bed**?
+but I sat down on **the bed**. (a specific piece of furniture
+
+**go to work** / **be at work** / **start work** / **finish work** etc. (not the work):
+- Chris didn’t go to **work** yesterday.
+- What time do you usually finish **work**?
+**go home** / **come home** / **arrive home** / **get home** / **be (at) home** / do something **at home** etc. :
+- It’s late. Let’s **go home**
+- I don’t go out to work. I work **at home**.
 
 **TODO: split these articles on different pages**
