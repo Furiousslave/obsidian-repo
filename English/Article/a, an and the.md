@@ -7,6 +7,10 @@ We use **the** when we are thinking of a specifing thing:
 - What's **the** name of that man we met yeasterday?
 - **The** nearest airport is 70 miles away
 - Have you finished with **the** book I lent you?
+- Look at **the apples** on that tree
+- Do you know **the people** who live in the flat next to yours?
+- We enjoyed our holiday. **The weather** was good.
+- We couldn't find anywhere to stay in the town. **The hotels** were all full.
 
 We use **a/an** when we say what kind of thing or person we mean:
 - We had dinner in **a** very nice restaurant
