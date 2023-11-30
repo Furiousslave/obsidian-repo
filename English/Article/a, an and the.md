@@ -80,4 +80,16 @@ but I sat down on **the bed**. (a specific piece of furniture
 - It’s late. Let’s **go home**
 - I don’t go out to work. I work **at home**.
 
+We use **the** + adjective (without a noun) to talk about groups of people. For example:
+**the old**, **the elderly**, **the rich**, **the poor**, **the homeless**, **the unemployed**, **the sick**, **the injured**
+**the old** = old people, **the rich** = rich people etc
+
+We use **the** + a few nationality adjectives that end in -ch or -sh. For example:
+- the French
+- the Dutch
+- the British
+- the English
+- the Spanish
+
+
 **TODO: split these articles on different pages**
