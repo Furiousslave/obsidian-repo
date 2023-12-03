@@ -91,5 +91,42 @@ We use **the** + a few nationality adjectives that end in -ch or -sh. For exampl
 - the English
 - the Spanish
 
+We normally use **the** in names with Republic, Kingdom, States etc.:
+- **the** Czech **Republic**
+- **the** Dominican **Republic**
+- **the** United **Kingdom** (**the** UK)
+- **the** United States (**the** USA)
+
+We use **the** with the names of oceans, seas, rivers and canals:
+- **the** Atlantic (Ocean)
+- **the** Indian Ocean
+- **the** Mediterranean (Sea)
+- **the** Red Sea
+- **the** Channel (between France and Britain)
+- **the** Amazon
+- **the** Nile
+- **the** Suez Canal
+
+We use **the** with the names of deserts:
+- **the** Sahara (Desert)
+- **the** Gobi Desert
+
+We use **the** with *plural* names of people and places:
+-  *people*                      **the** Taylor**s** (= the Taylor family), the Johnson**s**
+-  **countries**                 **the** Netherland**s**, **the** Philippine**s**, **the** United State**s**
+- *groups of islands*       **the** Canarie**s** (or the Canary Islands), **the** Bahama**s**
+- *mountain ranges*       **the** Ande**s**, **the** Apl**s,** **the** Ural**s**
+
+The highest mountain in **the** **Andes** is (**Mount**) **Aconcagua**
+
+We say:
+- **the north** (of Brazil)  but **northern** Brazil (without the)
+- **the southeast** (of Spain) but **southeastern** Spain
+
+We also use north/south etc. (without **the**) in the names of some region and countries:
+- **North America**
+- **South Africa**
+- **southeast Asia**
+
 
 **TODO: split these articles on different pages**
