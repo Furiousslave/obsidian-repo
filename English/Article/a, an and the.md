@@ -128,5 +128,53 @@ We also use north/south etc. (without **the**) in the names of some region and c
 - **South Africa**
 - **southeast Asia**
 
+We use **the** in most building names and two-word buildings and institutions(airports, stations, univerrsities etc.), and also some geographical names, where the first word is not a place or a person:
+- **the Royal Palace** but **Buckingham Palace**
+- *hotels*                       **the** Sheraton Hotel, the **Holiday** Inn
+- *theatres/cinemas*     **the** Palace Theatre, **the** Odeon(cinema)
+- *museums*                 **the** Guggenheim Museum, **the** National Gallery
+- *other buildings*         **the** Empare State(Building), **the** White House, the Eifell Tower
 
-**TODO: split these articles on different pages**
+We often leave out the noun:
+- **the Sheraton** (Hotel)
+- **the Palace** (Theatre)
+- **the Guggenheim** (Museum)
+
+Some names are only the + noun, for example:
+- **the Acropolis**
+- **the Kremlin**
+- **the Pentagon**
+
+Names with **of** usually have **the**. For example:
+- **the** Bank **of** England
+- **the** Great Wall **of** China
+- **the** Museum **of** Modern Art
+- **the** Tower **of** London
+
+Many shops, restaurants, hotels etc. are named after people. These names end in **-’s** or **-s**. We do not use **the** with these names:
+- **McDonald’s** (not the …)
+- **Joe’s Diner** (restaurant)
+- **Barclays** (bank)
+- **Macy’s** (department store)
+
+Churches are often named after saints (St = Saint):
+- **St John’s Church** (not the …)
+- **St Patrick’s Cathedral**
+
+Most newspapers and many organisations have names with the:
+- **the** Washington Post
+- **the** European Union
+- **the** Financial Times
+- **the** BBC
+- **the** Sun (newspaper)
+- **the** Red Cross
+
+Names of companies, airlines etc. are usually without **the**:
+- **Fiat** (not the Fiat)
+- **Kodak**
+- **Sony**
+- **IBM**
+- **Singapore Airlines**
+- **Yale University Press**
+
+**TODO: split these articles on different pages** **and add information where we don't use a/an or the**
