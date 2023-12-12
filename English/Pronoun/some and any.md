@@ -11,7 +11,7 @@ We use **any** in the following sentences because the meaning is negative:
 - He **refused** to eat **anything**. (he **didn’t** eat **anything**)
 - It’s a very easy exam. **Hardly anybody** fails. (= almost **nobody** fails)
 
-We use both **some** and any **in** questions. We use **some**/**somebody**/**something** to talk about a person or thing that we know exists, or we think exists:
+We use both **some** and **any** in questions. We use **some**/**somebody**/**something** to talk about a person or thing that we know exists, or we think exists:
 - Are you waiting for **somebody**? (I think you are waiting for somebody)
 
 We use **some** in questions when we ask for or offer things:
