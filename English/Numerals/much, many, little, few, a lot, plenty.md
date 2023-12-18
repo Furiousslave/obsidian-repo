@@ -17,7 +17,7 @@ We use **a lot of** / **lots of** / **plenty of** with both uncountable and plur
 - **plenty of ideas**
 **plenty** = more than enough:
 - There’s no need to hurry. We’ve got **plenty of time**
-- There’s There’s plenty to do in this town. in this town.
+- There’s There’s **plenty to do** in this town. in this town.
 
 **Much** is unusual in positive sentences (especially in spoken English). Compare:
 - We **didn’t** spend **much** money. but We **spent a lot of** money.
