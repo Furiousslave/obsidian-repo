@@ -268,4 +268,45 @@ When a bounded work queue fills up, the saturation policy comes into play. The s
 The default policy, **abort**, causes execute to throw the unchecked `RejectedExecutionException`; the caller can catch this exception and implement its own overflow handling as it sees fit. The **discard** policy silently discards the newly submitted task if it cannot be queued for execution; the **discard-oldest** policy discards the task that would otherwise be executed next and tries to resubmit the new task. (If the work queue is a priority queue, this discards the highest-priority element, so the combination of a discard-oldest saturation policy and a priority queue is not a good one.)
 
 The **caller-runs** policy implements a form of throttling that neither discards tasks nor throws an exception, but instead tries to slow down the flow of new tasks by pushing some of the work back to the caller. It executes the newly submitted task not in a pool thread, but in the thread that calls execute.
+# Extending ThreadPoolExecutor
+`ThreadPoolExecutor` was designed for extension, providing several “hooks” for subclasses to override—`beforeExecute`, `afterExecute`, and `terminated`—that can be used to extend the behavior of `ThreadPoolExecutor`. The `beforeExecute` and `afterExecute` hooks are called in the thread that executes the task, and can be used for adding logging, timing, monitoring, or statistics gathering. The `afterExecute` hook is called whether the task completes by returning normally from run or by throwing an Exception. (If the task completes with an `Error`, `afterExecute` is not called.) If `beforeExecute` throws a `RuntimeException`, the task is not executed and `afterExecute` is not called. The `terminated` hook is called when the thread pool completes the shutdown process, after all tasks have finished and all worker threads have shut down. It can be used to release resources allocated by the `Executor` during its lifecycle, perform notification or logging, or finalize statistics gathering.
+## Example:
+```
+public class TimingThreadPool extends ThreadPoolExecutor {
+  private final ThreadLocal<Long> startTime = new ThreadLocal<Long>();
+  private final Logger log = Logger.getLogger("TimingThreadPool");
+  private final AtomicLong numTasks = new AtomicLong();
+  private final AtomicLong totalTime = new AtomicLong();
+  
+  protected void beforeExecute(Thread t, Runnable r) {
+    super.beforeExecute(t, r);
+    log.fine(String.format("Thread %s: start %s", t, r));
+    startTime.set(System.nanoTime());
+  }
+  
+  protected void afterExecute(Runnable r, Throwable t) {
+    try {
+      long endTime = System.nanoTime();
+      long taskTime = endTime - startTime.get();
+      numTasks.incrementAndGet();
+      totalTime.addAndGet(taskTime);
+      log.fine(String.format("Thread %s: end %s, time=%dns", t, r, taskTime));
+    } finally {
+      super.afterExecute(r, t);
+    }
+  }
+  
+  protected void terminated() {
+    try {
+      log.info(String.format(
+          "Terminated: avg time=%dns", totalTime.get() / numTasks.get()));
+    } finally {
+      super.terminated();
+    }
+  }
+}
+```
+
+
+
 
